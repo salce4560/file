@@ -16,6 +16,6 @@ if(!empty($_FILES['file']['tmp_name'])){
     move_uploaded_file($_FILES['file']['tmp_name'],"file/".$newFileName);
 }
 
-
+jlkjj;lj;lj;lj;ljj;lj;ljljl;kj
 
 ?>

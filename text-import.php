@@ -21,9 +21,14 @@
 </head>
 <body>
 <h1 class="header">文字檔案匯入練習</h1>
+
+<form action="file_upload.php" method="post" enctype="multipart/form-data">
+     <p><input type="file" name="file" ></p>
+     <p><input type="submit" value="上傳"></p>
+</form>
 <!---建立檔案上傳機制--->
 
-
+jljlj;lj;lj;ljlk
 
 <!----讀出匯入完成的資料----->
 
